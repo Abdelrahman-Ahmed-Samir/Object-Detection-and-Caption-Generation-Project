@@ -1,0 +1,4 @@
+Detected objects in image 3:
+cat
+laptop
+bed

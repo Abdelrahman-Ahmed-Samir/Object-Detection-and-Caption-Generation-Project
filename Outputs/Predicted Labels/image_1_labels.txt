@@ -1,0 +1,2 @@
+Detected objects in image 1:
+bench

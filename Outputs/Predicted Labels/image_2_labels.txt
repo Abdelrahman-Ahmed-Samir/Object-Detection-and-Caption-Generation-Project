@@ -1,0 +1,16 @@
+Detected objects in image 2:
+car
+car
+person
+person
+person
+person
+person
+car
+person
+person
+person
+motorcycle
+person
+person
+person
