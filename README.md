@@ -39,11 +39,8 @@ Save the detected object labels in text files for each image.
 Process each text file to extract object labels and pass them to the Gemini model to generate captions.
 Optionally, a keyword can be added to modify the context of the caption.
 
-## Example Command: After setting up the environment, simply run the script:
+## Example Command: After setting up the environment, simply run the task1.ipynb:
 
-```bash
-python task1.py
-```
 
 ## Output:
 
