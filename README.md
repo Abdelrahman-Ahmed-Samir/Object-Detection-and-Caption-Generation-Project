@@ -57,3 +57,9 @@ Why YOLO?: YOLO is effective at detecting multiple objects in images with high s
 Model: gemini-pro (via Google Generative AI API)
 Purpose: Gemini is used to generate context-rich captions based on the object labels detected by YOLO.
 Why Gemini?: Gemini is a powerful generative AI model that can generate detailed, natural language text based on structured data (such as the list of detected objects). It allows us to take raw object labels and generate informative, human-readable captions.
+
+
+# Bonus Part:
+
+I tried to pass for the LLM function a keyword as a parameter like 'summer' and the LLM model generates the context of each image including the keyword.
+in the generated captions , you will see that I used keyword = 'Cozy'.
