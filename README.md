@@ -42,7 +42,7 @@ Optionally, a keyword can be added to modify the context of the caption.
 ## Example Command: After setting up the environment, simply run the script:
 
 ```bash
-python task.py
+python task1.py
 ```
 
 ## Output:
